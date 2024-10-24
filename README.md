@@ -2,7 +2,7 @@
 A responsive, modern website designed to showcase a sushi restaurant's offerings using pure HTML and CSS. The site features a clean and elegant design, focusing on user experience and aesthetic appeal.
 
 #Live Demo
-You can view the live website here: Sushiman Website on Vercel
+You can view the live website here: [Sushiman Website on Vercel](https://sushiman-cyan.vercel.app/)
 
 #Website Breakdown
 #1. Header
